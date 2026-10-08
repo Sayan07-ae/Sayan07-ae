@@ -1,80 +1,77 @@
 <div align="center">
 
-# Sayan Das
+<br>
 
-### AI / ML Engineer in the Making
+# <font size="7">SAYAN DAS</font>
 
-**Artificial Intelligence · Machine Learning · Generative AI · Agentic AI**
+## <font size="5">AI / ML • GENERATIVE AI • AGENTIC AI</font>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=Building+Intelligent+Systems;Exploring+Generative+AI;Engineering+AI+Agents;Turning+Ideas+Into+Working+Systems" />
+
+<br><br>
 
 <a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" height="40"/>
 </a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=58A6FF"/>
-</a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" height="40"/>
 </a>
 
-</div>
+&nbsp;&nbsp;
 
-<br>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="40"/>
+</a>
 
----
+<br><br>
 
-## About
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge"/>
 
-I'm a **Computer Science student specializing in Artificial Intelligence & Machine Learning**, interested in building intelligent systems that are useful beyond the classroom.
-
-My current focus is on **Machine Learning, Generative AI, LLMs, RAG, and AI Agents**.
-
-I learn by going beyond tutorials — understanding the fundamentals, building projects, breaking things, debugging them, and iterating until they work.
-
-<br>
-
-<div align="center">
-
-`LEARN` &nbsp;→&nbsp; `BUILD` &nbsp;→&nbsp; `DEBUG` &nbsp;→&nbsp; `IMPROVE` &nbsp;→&nbsp; `SHIP`
+<br><br>
 
 </div>
 
 ---
 
-## What I'm working on
+# 👋 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-### Artificial Intelligence
+## I'm Sayan.
 
-Exploring how intelligent systems can perceive information, reason over it, and take meaningful actions.
+I'm a **Computer Science student specializing in Artificial Intelligence & Machine Learning**, focused on understanding and building modern AI systems.
 
-**Areas**
+My interests span from **Machine Learning and Deep Learning** to **Generative AI, LLMs, RAG, and Agentic AI**.
 
-`Machine Learning`  
-`Deep Learning`  
-`NLP`  
-`Computer Vision`
+I learn by building — taking concepts from theory and turning them into practical software.
+
+<br>
+
+### My current direction
+
+**Machine Learning → Deep Learning → Generative AI → LLM Engineering → AI Agents → Production AI**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" align="center">
 
-### Generative AI
+<br><br>
 
-Building applications around modern foundation models and intelligent workflows.
+# 🤖
 
-**Areas**
+### AI
+### ML
+### GENAI
+### AGENTS
 
-`LLMs`  
-`RAG`  
-`Embeddings`  
-`AI Agents`
+<br><br>
 
 </td>
 </tr>
@@ -82,160 +79,464 @@ Building applications around modern foundation models and intelligent workflows.
 
 ---
 
-## Technology
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
-
-### AI / Machine Learning
-
-`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `PyTorch`
-
-### Generative AI
-
-`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `AI Agents`
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
-
----
-
-## Selected Work
-
-> A growing collection of projects built while learning and experimenting.
-
-### 01 — AI Research Assistant
-
-**LLM · RAG · Python**
-
-An AI-powered system for interacting with research material through contextual retrieval and natural-language queries.
-
-`Document Processing` `Embeddings` `Retrieval` `LLM`
-
-[View Project →](YOUR_PROJECT_URL)
-
----
-
-### 02 — Autonomous AI Agent
-
-**Agentic AI · Python · LLM**
-
-An experimental agent capable of breaking complex tasks into smaller steps, selecting tools, and executing multi-stage workflows.
-
-`Tool Calling` `Planning` `Memory` `Agents`
-
-[View Project →](YOUR_PROJECT_URL)
-
----
-
-### 03 — Machine Learning Projects
-
-**Python · Scikit-learn · Data Science**
-
-A collection of practical ML projects covering the complete machine-learning workflow.
-
-`Data Processing` `Feature Engineering` `Training` `Evaluation`
-
-[View Projects →](YOUR_PROJECT_URL)
-
----
-
-## Learning Path
-
-```text
-Computer Science
-       │
-       ├── Programming
-       │
-       ├── Data Structures & Algorithms
-       │
-       ▼
-Machine Learning
-       │
-       ▼
-Deep Learning
-       │
-       ▼
-Generative AI
-       │
-       ├── LLMs
-       ├── RAG
-       ├── Embeddings
-       │
-       ▼
-AI Agents
-       │
-       ▼
-Production AI
-```
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-
-</div>
+# 🧠 What I'm Building
 
 <br>
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<td width="50%" align="center">
 
-</div>
+# 🤖
 
----
+## AI AGENTS
 
-## Currently Learning
+Building systems that can:
 
-<div align="center">
+**Reason**
 
-| Area | Focus |
-|:---|:---|
-| **ML** | Model development & evaluation |
-| **Deep Learning** | Neural networks & PyTorch |
-| **GenAI** | LLM applications |
-| **RAG** | Retrieval & contextual generation |
-| **Agents** | Tool use & autonomous workflows |
-| **Engineering** | APIs, Docker & deployment |
+**Plan**
 
-</div>
+**Use Tools**
 
----
+**Retrieve Information**
 
-## Beyond the Code
+**Execute Tasks**
 
-I'm interested in the intersection of **AI + software engineering + real-world products**.
+</td>
 
-The long-term goal is simple:
+<td width="50%" align="center">
 
-> **Build AI systems that people actually want to use.**
+# ✨
 
----
+## GENERATIVE AI
 
-<div align="center">
+Exploring:
 
-### Let's build something intelligent.
+**LLMs**
+
+**RAG**
+
+**Embeddings**
+
+**Vector Search**
+
+**AI Workflows**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+# 🧬
+
+## MACHINE LEARNING
+
+Working with:
+
+**Data**
+
+**Features**
+
+**Models**
+
+**Training**
+
+**Evaluation**
+
+</td>
+
+<td width="50%" align="center">
+
+# ⚙️
+
+## AI ENGINEERING
+
+Turning models into:
+
+**APIs**
+
+**Applications**
+
+**Automation**
+
+**Intelligent Products**
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+---
+
+# 🛠️ Technology
+
+## 💻 Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark&perline=3" />
+
+<br><br>
+
+## 🧠 AI / Machine Learning
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+
+<br><br>
+
+### `Python` &nbsp; `NumPy` &nbsp; `Pandas` &nbsp; `Scikit-learn`
+
+<br>
+
+## ⚡ Generative AI
+
+<br>
+
+### `LLMs` &nbsp; `RAG` &nbsp; `Embeddings` &nbsp; `Vector Search`
+
+### `Prompt Engineering` &nbsp; `AI Agents` &nbsp; `Tool Calling`
+
+<br>
+
+## 🔧 Development
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark&perline=5" />
+
+---
+
+# 🚀 Featured Projects
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Research Assistant
+
+### `LLM` `RAG` `Python`
+
+An AI-powered research assistant designed to retrieve information from documents and provide contextual answers.
+
+<br>
+
+**Core Concepts**
+
+`Document Processing`
+
+`Embeddings`
+
+`Semantic Search`
+
+`LLMs`
+
+<br>
+
+<a href="YOUR_PROJECT_URL">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+
 </a>
 
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Autonomous AI Agent
+
+### `Agentic AI` `LLM` `Python`
+
+An experimental intelligent agent designed to break down complex tasks, select tools, and execute multi-step workflows.
+
+<br>
+
+**Core Concepts**
+
+`Planning`
+
+`Tool Calling`
+
+`Memory`
+
+`Agents`
+
+<br>
+
+<a href="YOUR_PROJECT_URL">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Machine Learning Suite
+
+### `Python` `Scikit-learn`
+
+A collection of practical ML projects covering the complete workflow from data preprocessing to model evaluation.
+
+<br>
+
+**Core Concepts**
+
+`Data Processing`
+
+`Feature Engineering`
+
+`Training`
+
+`Evaluation`
+
+<br>
+
+<a href="YOUR_PROJECT_URL">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ AI Applications
+
+### `Python` `APIs` `GenAI`
+
+Experiments combining AI models with software applications to create useful intelligent tools.
+
+<br>
+
+**Core Concepts**
+
+`AI APIs`
+
+`Automation`
+
+`LLMs`
+
+`Application Development`
+
+<br>
+
+<a href="YOUR_PROJECT_URL">
+
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🗺️ My AI Engineering Roadmap
+
+<br>
+
+<div align="center">
+
+### 01
+
+# PROGRAMMING
+
+**Python • C/C++ • Git • Software Fundamentals**
+
+↓
+
+### 02
+
+# MACHINE LEARNING
+
+**Statistics • Data • Algorithms • Model Evaluation**
+
+↓
+
+### 03
+
+# DEEP LEARNING
+
+**Neural Networks • PyTorch • Computer Vision • NLP**
+
+↓
+
+### 04
+
+# GENERATIVE AI
+
+**LLMs • Prompt Engineering • Embeddings**
+
+↓
+
+### 05
+
+# LLM ENGINEERING
+
+**RAG • Vector Search • Context Engineering**
+
+↓
+
+### 06
+
+# AI AGENTS
+
+**Tools • Planning • Memory • Multi-Agent Systems**
+
+↓
+
+### 07
+
+# PRODUCTION AI
+
+**APIs • Docker • Deployment • Monitoring**
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<br>
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&rank_icon=github"/>
+
+&nbsp;&nbsp;
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"/>
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+# 🧠
+
+### MACHINE
+### LEARNING
+
+</td>
+
+<td align="center" width="25%">
+
+# 🔥
+
+### DEEP
+### LEARNING
+
+</td>
+
+<td align="center" width="25%">
+
+# ✨
+
+### GENERATIVE
+### AI
+
+</td>
+
+<td align="center" width="25%">
+
+# 🤖
+
+### AI
+### AGENTS
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 The Goal
+
+<br>
+
+<div align="center">
+
+# BUILD AI THAT MATTERS.
+
+<br>
+
+### From learning fundamentals...
+
+<br>
+
+**→**
+
+<br>
+
+### ...to engineering intelligent systems.
 
 <br><br>
 
-<sub>Designed with simplicity. Built with curiosity.</sub>
+> **Learn. Build. Break. Improve. Ship.**
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<br>
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=0D1117" height="45"/>
+</a>
+
+<br><br><br>
+
+### Building intelligent systems, one project at a time.
+
+<br>
+
+`AI` · `ML` · `GENAI` · `LLMs` · `AGENTS`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=footer"/>
 
 </div>
