@@ -103,15 +103,35 @@ Right now I'm focused on LLMs, retrieval-augmented generation and tool-using age
 <!-- ========================= PROJECTS ========================= -->
 <h2 align="center">Featured Projects</h2>
 
-<!-- Replace YOUR_REPO_1/2/3 with real repo names. The cards fill in automatically. -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="60%">
+<br/>
+🚧 <b>Projects in progress</b><br/><br/>
+<sub>I'm building my first set of AI projects (ML, RAG and agent apps).<br/>They'll show up here once they're ready to be run by someone else.</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!--
+  WHEN YOU HAVE REAL REPOS: delete the table above, then uncomment the block below
+  and replace YOUR_USERNAME and YOUR_REPO_1/2/3 with your actual GitHub username
+  and repository names. The names must match exactly (case-sensitive), and the
+  repos must be public, otherwise the card shows "Not found".
+
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Project 1"/></a>
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Project 2"/></a>
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true" alt="Project 3"/></a>
-
 </div>
+-->
+
 
 <!-- ========================= GITHUB STATS ========================= -->
 <h2 align="center">GitHub Activity</h2>
